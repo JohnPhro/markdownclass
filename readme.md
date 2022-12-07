@@ -41,3 +41,29 @@ this is a     `sample`
     * road
     * go
     * went
+
+1. Kubernetes
+1. Ansible    
+1. Vagrant
+1. CiCD
+1. Kub8
+1. Markdone
+    * prgram
+    * class    
+    * Studies
+1. DevOps
+
+My name **John Onoja**
+I am learning `DevOps`
+I have learnt *Terraform today*
+
+# Yes I know it requires practice
+## Yes I know it requires practice
+
+### Yes I know it requires practice
+
+Yes -`i know its a good practice`
+```
+I am grateful I learnt terraform today
+I enjoyed the opportunity. And I will not take it for granted```
+Yes _ know its a good practice_
